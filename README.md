@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is the systematic application of engineering principles,methods and tools to develop and maintain high quality software systems.It plays a crucial role in technology industry by enabling tthe creation of software applications and various aspects that power variousaspects of modern life inluding communication,commerce,entertainment and healthcare.
 Identify and describe at least three key milestones in the evolution of software engineering.
-Development of programming languages-the first high level language to have an associated complier was created in 1951 and it was FORTRAN that is FORula TRANslation.Establishment of software engineering as a discipline obtained software that is realiable and works perfectly on machines.
+Development of programming languages-the first high level language to have an associated complier was created in 1951 and it was FORTRAN that is FORmula TRANslation.Establishment of software engineering as a discipline obtained software that is realiable and works perfectly on machines.
 Emergence ofobject-oriented programming gained traction with languages like C++ and smalltalk.This paradigm shift improved code reusability and made software maintenance easy.
 Agile methodologies;The agile Manifesto was introduced in 2001,promoting iterative development,collaboration and adapting to change over following strict plans.
 
